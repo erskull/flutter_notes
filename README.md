@@ -18,7 +18,6 @@ Create a basic UI for the app
 
 * Add 2 textfield for email and password respectively and a button on both LoginScreen.dart and RegisterScreen.dart
 * Add a listview to display users notes and a FloatingActionButton on the HomeScreen.dart
-* Add a multi-line textfield in AddNoteScreen.dart and a save button
 * Use Form widget and do proper validation for all textfields
 
 #### **Task 2**
@@ -50,4 +49,5 @@ Some bonus features that you can add in the app is ability to edit/delete exisit
 
 * Feel free to use any flutter plugins you want.
 * Highly recommended to use a state management libraries like Providers, Bloc, Get etc.
-* If some instructions appears to be vague or lak sufficient details, make assumpions based on your own judgment.
+* You can change the design to your liking.
+* If some instructions appears to be vague or lack sufficient details, make assumptions based on your own judgment.
